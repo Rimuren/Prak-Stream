@@ -2,6 +2,8 @@
 =====================
 ### Lanjutan State Management dengan Streams
 
+# Praktikum 1 :
+
 ## Hasil :
 
 
@@ -13,4 +15,5 @@
 
 # ![Gif](lib/assets/gif/p1.4.gif)
 
-
+# Praktikum 2 :
+## Hasil :

@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-![Screenshot](lib\assets\gif\p1.1.png)
+# ![Screenshot](lib\assets\gif\p1.1.png)
 
 This project is a starting point for a Flutter application.
 
